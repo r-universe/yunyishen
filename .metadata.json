@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CARlasso",
+    "oncran": true
+  },
+  {
+    "package": "linconGaussR",
+    "oncran": true
+  }
+]
