@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "linconGaussR"]
-	path = linconGaussR
-	url = https://github.com/yunyishen/lincongaussr
-	shallow = true
-	registered = true
 [submodule "CARlasso"]
 	path = CARlasso
 	url = https://github.com/yunyishen/car-lasso
+	shallow = true
+	registered = true
+[submodule "linconGaussR"]
+	path = linconGaussR
+	url = https://github.com/yunyishen/lincongaussr
 	shallow = true
 	registered = true
