@@ -13,3 +13,8 @@
 	url = https://github.com/yunyishen/lincongaussr
 	shallow = true
 	registered = true
+[submodule "robustcov"]
+	path = robustcov
+	url = https://github.com/yunyishen/robustcov
+	shallow = true
+	registered = true

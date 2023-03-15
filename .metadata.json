@@ -6,5 +6,9 @@
   {
     "package": "linconGaussR",
     "oncran": true
+  },
+  {
+    "package": "robustcov",
+    "oncran": true
   }
 ]
