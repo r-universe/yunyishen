@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CARlasso"]
 	path = CARlasso
 	url = https://github.com/yunyishen/car-lasso
-	shallow = true
-	registered = true
 [submodule "linconGaussR"]
 	path = linconGaussR
 	url = https://github.com/yunyishen/lincongaussr
-	shallow = true
-	registered = true
 [submodule "robustcov"]
 	path = robustcov
 	url = https://github.com/yunyishen/robustcov
-	shallow = true
-	registered = true
